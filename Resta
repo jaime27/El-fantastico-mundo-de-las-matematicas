@@ -1,0 +1,4 @@
+### Operacion Resta ###
+num1=9
+num2=6
+total=num1-num2
