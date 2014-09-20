@@ -1,0 +1,4 @@
+#Operación resta
+operando1=5
+operando2=2
+resultado=operando1-operando2
