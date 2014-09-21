@@ -1,0 +1,3 @@
+valor=5
+exponente=2
+pow(valor,exponente)
